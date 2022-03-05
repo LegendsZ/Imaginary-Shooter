@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Asteroid.h(14,45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(118,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(123,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(145,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(204,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(205,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(343,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(349,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(355,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(391,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(397,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(403,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(423,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(443,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(444,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(450,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(509,6): warning C4551: function call missing argument list
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(517,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\ImaginaryShooter_SDL2\Source.cpp(739,38): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  1 of 792 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ImaginaryShooter_SDL2.vcxproj -> C:\Users\WINDOWS\source\repos\ImaginaryShooter_SDL2\x64\Release\ImaginaryShooter_SDL2.exe
